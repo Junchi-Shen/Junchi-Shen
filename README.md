@@ -20,8 +20,8 @@
 
 ### 🚀 Highlighted Projects
 * **[Deltakit-QEC](https://github.com/Junchi-Shen/Deltakit-based-QEC-simulation)**: High-performance stabilizer simulation for Surface Codes.
-* **[Exotic Option Pricing](https://arxiv.org/abs/2403.01358)**: Conditional diffusion models for path generation (arXiv).
-* **[PyCUDA Simulation](https://github.com/Junchi-Shen/PyCUDA-based-Large-scale-3D-polycrystal-simulation)**: 400x speedup in 3D Polycrystal simulations.
+* **[Exotic Option Pricing]([https://arxiv.org/abs/2403.01358](https://arxiv.org/abs/2509.13374))**: Conditional diffusion models for path generation (arXiv).
+* **[PyCUDA Simulation]([https://github.com/Junchi-Shen/PyCUDA-based-Large-scale-3D-polycrystal-simulation](https://github.com/Junchi-Shen/3d-polycrystal-simulation))**: 400x speedup in 3D Polycrystal simulations.
 
 ---
 
