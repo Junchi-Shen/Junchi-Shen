@@ -57,4 +57,4 @@
 
 ### 📫 Contact Me
 - **Email**: [sjc20020319@gmail.com](mailto:sjc20020319@gmail.com)
-- **LinkedIn**: [Your LinkedIn Link]
+- **LinkedIn**: [https://www.linkedin.com/in/junchi-shen-ab8b96308/]
