@@ -45,6 +45,8 @@
 
 </details>
 
+- [📊 View Presentation Slides](https://docs.google.com/presentation/d/16yfHWYU50j-bBoFeCBD6q-hhtHMq2v9gCBr1QrYNb3g/edit?usp=sharing)
+
 ---
 
 ### 🛠 Technical Stack
